@@ -1,0 +1,5 @@
+if (data.weather[0].main.toLowerCase() === 'clear') {
+    document.body.style.backgroundImage = 'url(sunny.jpg)';
+} else if (data.weather[0].main.toLowerCase() === 'rain') {
+    document.body.style.backgroundImage = 'url(rainy.jpg)';
+}
