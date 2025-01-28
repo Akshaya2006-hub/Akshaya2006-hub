@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akshaya
 - 👀 I’m interested in working with teams
+- I'm currently learning DSA
 - 🌱 I’m currently learning computer science and engineering
 -  🤝I’m looking to collaborate on all types of project to nourish my career 
 - 📫 How to reach me akshaya060901@gmail.com ,
